@@ -2,9 +2,13 @@
 Simple CC Checker Telegram Bot con bastantes características. Hecho con PHP.
 # Features 
 CComprobador C
+
 Comprobador de SK
+
 Comprobador Iban
+
 Comprobador de IP
+
 Comprobador de BIN
 
 Detección de contenedores de errores a través de un archivo TXT.
@@ -12,12 +16,14 @@ Sistema de usuario premium y gratuito sin ninguna base de datos my sql. [a trav�
 Almacena los resultados en la carpeta /tmp
 
 # SETUP 
-https://t.me/BotFather
+
 ![image](https://user-images.githubusercontent.com/124539980/216861744-86eac8db-d565-4150-81c5-1d1291996900.png)
 ![image](https://user-images.githubusercontent.com/124539980/216861791-a4f182df-49c1-44b0-890e-e03af6c29e5d.png)
 
 
 Cambiar $botToken con su token api activado modules/global.php
+
+https://t.me/BotFather
 
 Webhook must be set to bot.php
 
